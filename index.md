@@ -39,12 +39,13 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
+- **Sep 2023：**Excellent student of the university.
+- **Sep 2023：**Happy to be awarded the University-level Outstanding Student Scholarship.
+- **May 2023：**Happy to be awarded the School-level outstanding Communist Youth League member.
+- **Sep 2022：**Excellent student of the university.
+- **Sep 2022：**Happy to be awarded the University-level Outstanding Student Scholarship.
+- **May 2022：**Happy to be awarded the School-level outstanding Communist Youth League member.
+- **Sep 2021：**Excellent student of the university.
+- **Sep 2021：**Happy to be awarded the University-level Outstanding Student Scholarship.
 <br>
 
