@@ -10,7 +10,7 @@ Here is **Aijing Feng (冯爱静)**.
 
 I am a senior student majoring in **Information Management and Information System** at Shandong Normal University. Currently, I study followed [Prof. Zhi Liu]. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *19863679348@163.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *19863679348@163.com*.
 
 <br>
 
@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for master to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Shandong Normal University
+- **Sep 2020 - June 2024:** Shandong Normal University.
 
 - Looking for PhD position after that.
 
