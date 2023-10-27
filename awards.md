@@ -6,7 +6,6 @@ title: Awards
 
 Lastest Update: 27th Otc 2023.
 
-## Scholarships
 
 ## Scholarships
 - Sep 2023：the University-level Outstanding Student Scholarship.
