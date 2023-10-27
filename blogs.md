@@ -4,4 +4,4 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
--Add in, stay tuned...<br>
+Add in, stay tuned...<br>
