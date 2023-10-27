@@ -20,7 +20,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2020 - June 2024:** Shandong Normal University.
 
-- Looking for PhD position after that.
+- **Sep 2024 - June 2027:** Shandong University.
 
 <br>
 
