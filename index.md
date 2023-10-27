@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**</font> I am going for master of ShanDong University to start in 2024 Fall. Contact me if you have any leads!**
+**I am going for master of ShanDong University to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2020 - June 2024:** Shandong Normal University.
 
