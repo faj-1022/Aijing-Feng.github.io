@@ -4,7 +4,7 @@ My name is **Aijing Feng (中文，冯爱静)**. Here is my personal website. We
 
 ## Update and News
 
-- **Oct. 2023:** My personal website have been implemented and deployed in [Aijing Feng.com]([https://github.com/faj-1022/Aijing-Feng.github.io/edit/main/README.md])
+- **Oct. 2023:** My personal website have been implemented and deployed in [Aijing Feng.com](https://github.com/faj-1022/Aijing-Feng.github.io/README.md])
 
 ## Statement
 
