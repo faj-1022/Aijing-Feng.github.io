@@ -7,7 +7,6 @@ description: Two roads diverged in woods, I took the one less traveled by.
 owner:
   name: Aijing Feng
   email: 19863679348@163.com
-  cv: 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #github: faj-1022
   linkedin: https://github.com/faj-1022
@@ -20,7 +19,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
