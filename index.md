@@ -10,7 +10,7 @@ Here is **Aijing Feng (冯爱静)**.
 
 I am a senior student majoring in **Information Management and Information System** at Shandong Normal University. Currently, I study followed [Prof. Zhi Liu]. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *19863679348[dot][at]163.com[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *19863679348@163.com*
 
 <br>
 
