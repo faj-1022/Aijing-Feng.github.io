@@ -6,7 +6,6 @@ description: Two roads diverged in woods, I took the one less traveled by.
 # Owner/author information
 owner:
   name: Aijing Feng
- # bio:
   email: 19863679348@163.com
   cv: 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -72,9 +71,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: Aijing Feng
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/10/15 by Hanlin Cai.
+# Latest update in 2023/10/15 by Aijing Feng.
