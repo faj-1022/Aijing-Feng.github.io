@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src=".\2.jpg" class="floatpic" width="360" height="480">
+<img src=".\2.fav" class="floatpic" width="360" height="480">
 
 Here is **Aijing Feng (冯爱静)**.
 
