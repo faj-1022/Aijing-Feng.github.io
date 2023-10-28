@@ -49,3 +49,17 @@ My current research focuses on practical problems that artificial intelligence f
 - **Sep 2021：**Happy to be awarded the University-level Outstanding Student Scholarship.
 <br>
 
+  <script>
+  window.ChatoBotConfig = {
+    baseURL: "https://api.chato.cn",
+    wwwBaseURL: "https://chato.cn",
+    token: "p8eldrke8jvrnky0",
+    id: 770
+  }
+  var st = document.createElement("script");
+  st.type="text/javascript";
+  st.async = true;st.src = "https://chato.cn/assets/iframe.min.js";
+  var header = document.getElementsByTagName("head")[0];
+  header.appendChild(st);
+  </script>
+
