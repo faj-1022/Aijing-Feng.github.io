@@ -53,8 +53,8 @@ My current research focuses on practical problems that artificial intelligence f
   window.ChatoBotConfig = {
     baseURL: "https://api.chato.cn",
     wwwBaseURL: "https://chato.cn",
-    token: "p8eldrke8jvrnky0",
-    id: 770
+    token: "8ojdg7gmz4m7e236",
+    id: 771
   }
   var st = document.createElement("script");
   st.type="text/javascript";
@@ -62,4 +62,5 @@ My current research focuses on practical problems that artificial intelligence f
   var header = document.getElementsByTagName("head")[0];
   header.appendChild(st);
   </script>
+
 
